@@ -1,6 +1,5 @@
-
-def my_hash(family)
-  family={"ruffin"=>"Brandon, Micheal", "detwyler"=>"Rosie , Marlin"}
+def my_hash(hash)
+  hash={"ruffin"=>"Brandon, Micheal", "detwyler"=>"Rosie , Marlin"}
 
 end
 
