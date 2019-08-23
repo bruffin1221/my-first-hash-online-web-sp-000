@@ -1,5 +1,5 @@
 def my_hash(hash)
-  hash={"ruffin"=>"Brandon, Micheal", "detwyler"=>"Rosie , Marlin"}
+  hash={"ruffin"=>"Brandon", "detwyler"=>"Rosie"}
 
 end
 
